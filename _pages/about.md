@@ -1,11 +1,32 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Rohit Chawla"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## About Me
+
+I am a CS student, just finishing my undergrad at UT Austin. I am looking to pursue a Master's in reinforcement learning, but I also enjoy working on broader machine learning problems as well. I currently work as an RL Research Intern at ArcOne AI. In parallel, I am doing research on multi-agent RL using flow matching under Dr. Amy Zhang in the MIDI Lab.
+
+Here is my <a href="files/resume_mscs.pdf">resume.</a>
+
+
+## Education
+- B.S. in Computer Science and Certificate in Applied Statistical Modeling, University of Texas at Austin, 2021-2025
+- Vandegrift High School, 2017-2021
+
+
+## Projects
+
+
+## Personal Interests
+
+I love playing and watching a wide variety of sports (tennis, football, ultimate frisbee, skiing, volleyball, pickleball). I also really enjoy strategy games like secret hitler and poker, as well as crossword puzzles.
+
+<!--
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
@@ -54,3 +75,5 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+-->
