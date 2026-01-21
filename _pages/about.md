@@ -21,6 +21,41 @@ Here is my <a href="files/resume_mscs.pdf">resume.</a>
 
 ## Projects
 
+#### Exploring Reinforcement Learning Finetuning for Small Model Summarization
+- Short description
+- <a href="files/rl_finetune_paper.pdf">Paper</a>
+- [Github](https://github.com/rohitchawla28/rl-finetune)
+
+#### Reinforcement Learning for Safe Autonomous Driving
+- Short description
+- <a href="files/safe_rl_paper.pdf">Paper</a>
+- [Github]()
+
+#### Fraud Detection ML project
+- Short description
+- [Github]()
+
+#### Summit
+- Short description
+- [Pitch Deck](https://docs.google.com/presentation/d/1hvQX5jCbVuPTF5CYxHH5QhjcBDop1-T5ykv2aLX_7O0/edit?usp=sharing)
+- [Github](https://github.com/rohitchawla28/food-review-summarizer)
+
+#### Museo
+- An augmented reality museum app that provides tailored audioguides and contextual information to museumgoers using NFC tags.
+- [Pitch Deck](https://docs.google.com/presentation/d/1uvb8c0NZH13QHhVHZtbKpCRavdxxQ8BlDL9Z1XiLk2A/edit?usp=sharing)  
+- [Github](https://github.com/rohitchawla28/museo)
+
+#### Motion profiling??
+Link github
+
+#### FRC Robotics Team 6800 ViperBots Valor (2020)
+- Our season was cancelled due to Covid-19.
+- [Github](https://github.com/Valor6800/FRC-6800-2020-code)
+
+#### FTC Robotics Team 4545 ViperBots Ouroboros (2018-2019)
+- Competed in the FTC Robotics World Championship, receiving the Controls/Software Award Nomination (Top 5) and placing 30th out of ~4,000 teams.  
+- [Github](https://github.com/rohitchawla28/___4545Ouroboros___)
+
 
 ## Personal Interests
 
