@@ -15,51 +15,57 @@ Here is my <a href="files/resume_mscs.pdf">resume.</a>
 
 
 ## Education
-- B.S. in Computer Science and Certificate in Applied Statistical Modeling, University of Texas at Austin, 2021-2025
-- Vandegrift High School, 2017-2021
+- B.S. in Computer Science and Certificate in Applied Statistical Modeling at The University of Texas at Austin, 2021 - 2025
+- Vandegrift High School, 2017 - 2021
 
 
 ## Projects
 
+<strong>Exploring Reinforcement Learning Finetuning for Small Model Summarization</strong><br>
+Short description<br>
+[<a href="files/rl_finetune_paper.pdf">paper</a>][[code](https://github.com/rohitchawla28/rl-finetune)]
+
+
 #### Exploring Reinforcement Learning Finetuning for Small Model Summarization
 - Short description
-- <a href="files/rl_finetune_paper.pdf">Paper</a>
-- [Github](https://github.com/rohitchawla28/rl-finetune)
+- <a href="files/rl_finetune_paper.pdf">paper</a>
+- [[code](https://github.com/rohitchawla28/rl-finetune)]
 
 #### Reinforcement Learning for Safe Autonomous Driving
 - Short description
-- <a href="files/safe_rl_paper.pdf">Paper</a>
-- [Github]()
+- <a href="files/safe_rl_paper.pdf">paper</a>
+- [[paper](files/safe_rl_paper.pdf)]
+- [code]()
 
 #### Fraud Detection ML project
 - Short description
-- [Github]()
+- [[code]()]
 
 #### Summit
 - Short description
 - [Pitch Deck](https://docs.google.com/presentation/d/1hvQX5jCbVuPTF5CYxHH5QhjcBDop1-T5ykv2aLX_7O0/edit?usp=sharing)
-- [Github](https://github.com/rohitchawla28/food-review-summarizer)
+- [code](https://github.com/rohitchawla28/food-review-summarizer)
 
 #### Museo
 - An augmented reality museum app that provides tailored audioguides and contextual information to museumgoers using NFC tags.
 - [Pitch Deck](https://docs.google.com/presentation/d/1uvb8c0NZH13QHhVHZtbKpCRavdxxQ8BlDL9Z1XiLk2A/edit?usp=sharing)  
-- [Github](https://github.com/rohitchawla28/museo)
+- [code](https://github.com/rohitchawla28/museo)
 
 #### Motion profiling??
 Link github
 
 #### FRC Robotics Team 6800 ViperBots Valor (2020)
 - Our season was cancelled due to Covid-19.
-- [Github](https://github.com/Valor6800/FRC-6800-2020-code)
+- [code](https://github.com/Valor6800/FRC-6800-2020-code)
 
 #### FTC Robotics Team 4545 ViperBots Ouroboros (2018-2019)
 - Competed in the FTC Robotics World Championship, receiving the Controls/Software Award Nomination (Top 5) and placing 30th out of ~4,000 teams.  
-- [Github](https://github.com/rohitchawla28/___4545Ouroboros___)
+- [code](https://github.com/rohitchawla28/___4545Ouroboros___)
 
 
 ## Personal Interests
 
-I love playing and watching a wide variety of sports (tennis, football, ultimate frisbee, skiing, volleyball, pickleball). I also really enjoy strategy games like secret hitler and poker, as well as crossword puzzles.
+I love playing and watching a wide variety of sports (tennis, football, ultimate frisbee, skiing, volleyball, pickleball). I also really enjoy strategy games like Secret Hitler and poker, as well as crossword puzzles.
 
 <!--
 
