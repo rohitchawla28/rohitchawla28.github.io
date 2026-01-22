@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rohit Chawla"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,8 +15,8 @@ Here is my <a href="files/resume_mscs.pdf">resume.</a>
 
 
 ## Education
-- B.S. in Computer Science and Certificate in Applied Statistical Modeling
-    - University of Texas at Austin, 2021 - 2025
+- University of Texas at Austin, 2021 - 2025
+    - B.S. in Computer Science and Certificate in Applied Statistical Modeling
 - Vandegrift High School, 2017 - 2021
 <br>
 
@@ -26,41 +26,41 @@ Here is my <a href="files/resume_mscs.pdf">resume.</a>
 <strong>Exploring Reinforcement Learning Finetuning for Small Model Summarization</strong> <br>
 Short description <br>
 [[paper](files/rl_finetune_paper.pdf)] [[code](https://github.com/rohitchawla28/rl-finetune)]
-<br><br><br>
+<br><br>
 
 <strong>Reinforcement Learning for Safe Autonomous Driving</strong> <br>
 Short description <br>
 [[paper](files/safe_rl_paper.pdf)] [[code]()]
-<br><br><br>
+<br><br>
 
 <strong>Summit</strong> <br>
-- Short description <br>
+Short description <br>
 [[Pitch Deck](https://docs.google.com/presentation/d/1hvQX5jCbVuPTF5CYxHH5QhjcBDop1-T5ykv2aLX_7O0/edit?usp=sharing)] 
 [[code](https://github.com/rohitchawla28/food-review-summarizer)]
-<br><br><br>
+<br><br>
 
 <strong>Museo</strong> <br>
 An augmented reality museum app that provides tailored audioguides and contextual information to museumgoers using NFC tags. <br>
 [[Pitch Deck](https://docs.google.com/presentation/d/1uvb8c0NZH13QHhVHZtbKpCRavdxxQ8BlDL9Z1XiLk2A/edit?usp=sharing)] 
 [[code](https://github.com/rohitchawla28/museo)]
-<br><br><br>
+<br><br>
 
 <strong>Fraud Detection ML project</strong> <br>
 Short description <br>
 [[code](https://github.com/rohitchawla28/fraud-detection)]
-<br><br><br>
+<br><br>
 
 #### Motion Profiling
 Link github
-<br><br><br>
+<br><br>
 
-<strong>FRC Robotics Team 6800 ViperBots Valor (2020)</strong> <br>
-Our season was cancelled due to Covid-19. <br>
+<strong>FRC Robotics</strong> <br>
+Competed on Team 6800 ViperBots Valor (2020), but our season was cancelled due to Covid-19. <br>
 [[code](https://github.com/Valor6800/FRC-6800-2020-code)]
-<br><br><br>
+<br><br>
 
-<strong>FTC Robotics Team 4545 ViperBots Ouroboros (2018-2019)</strong> <br>
-Competed in the FTC Robotics World Championship, receiving the Controls/Software Award Nomination (Top 5) and placing 30th out of ~4,000 teams. <br>
+<strong>FTC Robotics</strong> <br>
+Competed on Team 4545 ViperBots Ouroboros (2018-2019) at the FTC Robotics World Championship, receiving the Controls/Software Award Nomination (Top 5) and placing 30th out of ~4,000 teams. <br>
 [[code](https://github.com/rohitchawla28/___4545Ouroboros___)]
 <br>
 
