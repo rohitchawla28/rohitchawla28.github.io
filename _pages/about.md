@@ -15,52 +15,54 @@ Here is my <a href="files/resume_mscs.pdf">resume.</a>
 
 
 ## Education
-- B.S. in Computer Science and Certificate in Applied Statistical Modeling at The University of Texas at Austin, 2021 - 2025
+- B.S. in Computer Science and Certificate in Applied Statistical Modeling
+    - University of Texas at Austin, 2021 - 2025
 - Vandegrift High School, 2017 - 2021
+<br>
 
 
 ## Projects
 
-<strong>Exploring Reinforcement Learning Finetuning for Small Model Summarization</strong><br>
-Short description<br>
-[<a href="files/rl_finetune_paper.pdf">paper</a>][[code](https://github.com/rohitchawla28/rl-finetune)]
+<strong>Exploring Reinforcement Learning Finetuning for Small Model Summarization</strong> <br>
+Short description <br>
+[[paper](files/rl_finetune_paper.pdf)] [[code](https://github.com/rohitchawla28/rl-finetune)]
+<br><br><br>
 
+<strong>Reinforcement Learning for Safe Autonomous Driving</strong> <br>
+Short description <br>
+[[paper](files/safe_rl_paper.pdf)] [[code]()]
+<br><br><br>
 
-#### Exploring Reinforcement Learning Finetuning for Small Model Summarization
-- Short description
-- <a href="files/rl_finetune_paper.pdf">paper</a>
-- [[code](https://github.com/rohitchawla28/rl-finetune)]
+<strong>Summit</strong> <br>
+- Short description <br>
+[[Pitch Deck](https://docs.google.com/presentation/d/1hvQX5jCbVuPTF5CYxHH5QhjcBDop1-T5ykv2aLX_7O0/edit?usp=sharing)] 
+[[code](https://github.com/rohitchawla28/food-review-summarizer)]
+<br><br><br>
 
-#### Reinforcement Learning for Safe Autonomous Driving
-- Short description
-- <a href="files/safe_rl_paper.pdf">paper</a>
-- [[paper](files/safe_rl_paper.pdf)]
-- [code]()
+<strong>Museo</strong> <br>
+An augmented reality museum app that provides tailored audioguides and contextual information to museumgoers using NFC tags. <br>
+[[Pitch Deck](https://docs.google.com/presentation/d/1uvb8c0NZH13QHhVHZtbKpCRavdxxQ8BlDL9Z1XiLk2A/edit?usp=sharing)] 
+[[code](https://github.com/rohitchawla28/museo)]
+<br><br><br>
 
-#### Fraud Detection ML project
-- Short description
-- [[code]()]
+<strong>Fraud Detection ML project</strong> <br>
+Short description <br>
+[[code](https://github.com/rohitchawla28/fraud-detection)]
+<br><br><br>
 
-#### Summit
-- Short description
-- [Pitch Deck](https://docs.google.com/presentation/d/1hvQX5jCbVuPTF5CYxHH5QhjcBDop1-T5ykv2aLX_7O0/edit?usp=sharing)
-- [code](https://github.com/rohitchawla28/food-review-summarizer)
-
-#### Museo
-- An augmented reality museum app that provides tailored audioguides and contextual information to museumgoers using NFC tags.
-- [Pitch Deck](https://docs.google.com/presentation/d/1uvb8c0NZH13QHhVHZtbKpCRavdxxQ8BlDL9Z1XiLk2A/edit?usp=sharing)  
-- [code](https://github.com/rohitchawla28/museo)
-
-#### Motion profiling??
+#### Motion Profiling
 Link github
+<br><br><br>
 
-#### FRC Robotics Team 6800 ViperBots Valor (2020)
-- Our season was cancelled due to Covid-19.
-- [code](https://github.com/Valor6800/FRC-6800-2020-code)
+<strong>FRC Robotics Team 6800 ViperBots Valor (2020)</strong> <br>
+Our season was cancelled due to Covid-19. <br>
+[[code](https://github.com/Valor6800/FRC-6800-2020-code)]
+<br><br><br>
 
-#### FTC Robotics Team 4545 ViperBots Ouroboros (2018-2019)
-- Competed in the FTC Robotics World Championship, receiving the Controls/Software Award Nomination (Top 5) and placing 30th out of ~4,000 teams.  
-- [code](https://github.com/rohitchawla28/___4545Ouroboros___)
+<strong>FTC Robotics Team 4545 ViperBots Ouroboros (2018-2019)</strong> <br>
+Competed in the FTC Robotics World Championship, receiving the Controls/Software Award Nomination (Top 5) and placing 30th out of ~4,000 teams. <br>
+[[code](https://github.com/rohitchawla28/___4545Ouroboros___)]
+<br>
 
 
 ## Personal Interests
