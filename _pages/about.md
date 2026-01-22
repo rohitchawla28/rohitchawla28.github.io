@@ -7,16 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer science student completing my undergraduate degree at UT Austin. I plan to pursue a Master's degree focused on reinforcement learning, however I also enjoy working on broader machine learning problems. I currently work as an Reinforcement Learning Research Intern at ArcOne AI. In parallel, I am researching multi-agent RL using flow matching under Dr. Amy Zhang at the MIDI Lab.
+I am a computer science student completing my undergraduate degree at UT Austin. I plan to pursue a Master's degree focused on reinforcement learning, however I also enjoy working on broader machine learning problems. 
+
+Currently:
+- Reinforcement Learning Research Intern at ArcOne AI
+- Conducting research on multi-agent RL using flow matching under Dr. Amy Zhang (MIDI Lab)
 
 Here is my <a href="files/resume_mscs.pdf">resume.</a>
-
+<br><br>
 
 # Education
 - University of Texas at Austin, 2021 - 2025
     - B.S. in Computer Science and Certificate in Applied Statistical Modeling
 - Vandegrift High School, 2017 - 2021
-<br>
+<br><br>
 
 
 # Projects
@@ -49,14 +53,14 @@ Used various ML techniques to classify customer transactions (from kaggle data) 
 <br><br>
 
 <strong>FRC Robotics - Team 6800 ViperBots Valor</strong> <br>
-Our 2020 season was unfortunately cancelled due to Covid-19. <br>
+Unfortunately, our competition season (2020) was cancelled due to Covid-19. <br>
 [[code](https://github.com/Valor6800/FRC-6800-2020-code)]
 <br><br>
 
 <strong>FTC Robotics - Team 4545 ViperBots Ouroboros</strong> <br>
 Competed at the FTC Robotics World Championship (2018-2019 season), receiving the Controls/Software Award Nomination (Top 5) and placing 30th out of ~4,000 teams. <br>
 [[code](https://github.com/rohitchawla28/___4545Ouroboros___)]
-<br>
+<br><br>
 
 
 # Personal Interests
