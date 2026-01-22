@@ -1,40 +1,38 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## About Me
-
 I am a CS student, just finishing my undergrad at UT Austin. I am looking to pursue a Master's in reinforcement learning, but I also enjoy working on broader machine learning problems as well. I currently work as an RL Research Intern at ArcOne AI. In parallel, I am doing research on multi-agent RL using flow matching under Dr. Amy Zhang in the MIDI Lab.
 
 Here is my <a href="files/resume_mscs.pdf">resume.</a>
 
 
-## Education
+# Education
 - University of Texas at Austin, 2021 - 2025
     - B.S. in Computer Science and Certificate in Applied Statistical Modeling
 - Vandegrift High School, 2017 - 2021
 <br>
 
 
-## Projects
+# Projects
 
 <strong>Exploring Reinforcement Learning Finetuning for Small Model Summarization</strong> <br>
-Used policy gradient methods to directly optimize non-differentiable metrics in summary generation under resource constraints. <br>
+Used policy gradient methods to directly optimize non-differentiable metrics in summary generation under tight resource constraints. <br>
 [[paper](files/rl_finetune_paper.pdf)] [[code](https://github.com/rohitchawla28/rl-finetune)]
 <br><br>
 
 <strong>Reinforcement Learning for Safe Autonomous Driving</strong> <br>
-Explored various deep RL methods for self-driving in a roundabout Gym environment.<br>
+Explored various deep RL methods for self-driving in a roundabout Gym env.<br>
 [[paper](files/safe_rl_paper.pdf)] [[code](https://github.com/Abhiram824/CS378-Final-Project)]
 <br><br>
 
 <strong>Summit</strong> <br>
-Fine-tuned small LLMs to generate specific, categorized summaries of restaurant reviews.<br>
+Fine-tuned small language models to generate specific, categorized summaries of restaurant reviews.<br>
 [[pitch deck](https://docs.google.com/presentation/d/1hvQX5jCbVuPTF5CYxHH5QhjcBDop1-T5ykv2aLX_7O0/edit?usp=sharing)] 
 [[code](https://github.com/rohitchawla28/food-review-summarizer)]
 <br><br>
@@ -50,20 +48,20 @@ Used various ML techniques to classify customer transactions (from kaggle data) 
 [[code](https://github.com/rohitchawla28/fraud-detection)]
 <br><br>
 
-<strong>FRC Robotics</strong> <br>
-Competed on Team 6800 ViperBots Valor (2020), but our season was cancelled due to Covid-19. <br>
+<strong>FRC Robotics - Team 6800 ViperBots Valor</strong> <br>
+Our 2020 season was unfortunately cancelled due to Covid-19. <br>
 [[code](https://github.com/Valor6800/FRC-6800-2020-code)]
 <br><br>
 
-<strong>FTC Robotics</strong> <br>
-Competed on Team 4545 ViperBots Ouroboros (2018-2019) at the FTC Robotics World Championship, receiving the Controls/Software Award Nomination (Top 5) and placing 30th out of ~4,000 teams. <br>
+<strong>FTC Robotics - Team 4545 ViperBots Ouroboros</strong> <br>
+Competed at the FTC Robotics World Championship (2018-2019 season), receiving the Controls/Software Award Nomination (Top 5) and placing 30th out of ~4,000 teams. <br>
 [[code](https://github.com/rohitchawla28/___4545Ouroboros___)]
 <br>
 
 
-## Personal Interests
+# Personal Interests
 
-I am a big fan of the great outdoors, especially mountains (skiing, trekking, mountaineering). I also love playing a wide variety of sports (tennis, football, ultimate frisbee, skiing, volleyball, pickleball). And lastly, I really enjoy strategy games like Secret Hitler and poker, as well as crossword puzzles.
+I am a big fan of the great outdoors, especially the mountains (skiing, trekking, mountaineering). I also love playing a wide variety of sports (tennis, football, ultimate frisbee, skiing, volleyball, pickleball). Lastly, I really enjoy strategy games like Secret Hitler and poker, as well as crossword puzzles.
 
 <!--
 
