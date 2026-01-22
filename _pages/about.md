@@ -65,7 +65,7 @@ Competed at the FTC Robotics World Championship (2018-2019 season), receiving th
 
 # Personal Interests
 
-I am a big fan of the great outdoors, especially the mountains (skiing, trekking, mountaineering). I also love playing a wide variety of sports (tennis, football, ultimate frisbee, skiing, volleyball, pickleball). Lastly, I really enjoy strategy games like Secret Hitler and poker, as well as crossword puzzles.
+I am a big fan of the great outdoors, especially the mountains (skiing, trekking, mountaineering). I also love playing a wide variety of sports (tennis, football, ultimate frisbee, volleyball, pickleball). Lastly, I really enjoy strategy games like Secret Hitler and poker, as well as crossword puzzles.
 
 <!--
 
