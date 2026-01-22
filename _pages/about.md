@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a CS student, just finishing my undergrad at UT Austin. I am looking to pursue a Master's in reinforcement learning, but I also enjoy working on broader machine learning problems as well. I currently work as an RL Research Intern at ArcOne AI. In parallel, I am doing research on multi-agent RL using flow matching under Dr. Amy Zhang in the MIDI Lab.
+I am a computer science student completing my undergraduate degree at UT Austin. I plan to pursue a Master's degree focused on reinforcement learning, however I also enjoy working on broader machine learning problems. I currently work as an Reinforcement Learning Research Intern at ArcOne AI. In parallel, I am researching multi-agent RL using flow matching under Dr. Amy Zhang at the MIDI Lab.
 
 Here is my <a href="files/resume_mscs.pdf">resume.</a>
 
