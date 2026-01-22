@@ -25,7 +25,7 @@ Here is my <a href="files/resume_mscs.pdf">resume.</a>
 
 # Projects
 
-<strong>Exploring Reinforcement Learning Finetuning for Small Model Summarization</strong> <br>
+<strong>Exploring Reinforcement Learning Fine-tuning for Small Model Summarization</strong> <br>
 Used policy gradient methods to directly optimize non-differentiable metrics in summary generation under tight resource constraints. <br>
 [[paper](files/rl_finetune_paper.pdf)] [[code](https://github.com/rohitchawla28/rl-finetune)]
 <br><br>
@@ -48,7 +48,7 @@ An augmented reality museum app that provides tailored audioguides and contextua
 <br><br>
 
 <strong>Fraud Detection</strong> <br>
-Used various ML techniques to classify customer transactions (from kaggle data) as fradulent. <br>
+Used various ML techniques to classify customer transactions (from kaggle data) as fraudulent. <br>
 [[code](https://github.com/rohitchawla28/fraud-detection)]
 <br><br>
 
