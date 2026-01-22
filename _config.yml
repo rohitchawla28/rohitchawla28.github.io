@@ -26,7 +26,7 @@ author:
   avatar           : "profile_pic.jpg"
   name             : "Rohit Chawla"
   pronouns         : # example: "she/her"  
-  bio              : "CS Student & Reinforcement Learning Researcher"
+  bio              : "CS Student & Reinforcement <br> Learning Researcher"
   location         : "Austin, TX"
   employer         : # "ArcOne AI"
   uri              : # URL
