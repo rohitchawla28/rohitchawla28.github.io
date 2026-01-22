@@ -24,34 +24,30 @@ Here is my <a href="files/resume_mscs.pdf">resume.</a>
 ## Projects
 
 <strong>Exploring Reinforcement Learning Finetuning for Small Model Summarization</strong> <br>
-Short description <br>
+Used policy gradient methods to directly optimize non-differentiable metrics in summary generation under resource constraints. <br>
 [[paper](files/rl_finetune_paper.pdf)] [[code](https://github.com/rohitchawla28/rl-finetune)]
 <br><br>
 
 <strong>Reinforcement Learning for Safe Autonomous Driving</strong> <br>
-Short description <br>
-[[paper](files/safe_rl_paper.pdf)] [[code]()]
+Explored various deep RL methods for self-driving in a roundabout Gym environment.<br>
+[[paper](files/safe_rl_paper.pdf)] [[code](https://github.com/Abhiram824/CS378-Final-Project)]
 <br><br>
 
 <strong>Summit</strong> <br>
-Short description <br>
-[[Pitch Deck](https://docs.google.com/presentation/d/1hvQX5jCbVuPTF5CYxHH5QhjcBDop1-T5ykv2aLX_7O0/edit?usp=sharing)] 
+Fine-tuned small LLMs to generate specific, categorized summaries of restaurant reviews.<br>
+[[pitch deck](https://docs.google.com/presentation/d/1hvQX5jCbVuPTF5CYxHH5QhjcBDop1-T5ykv2aLX_7O0/edit?usp=sharing)] 
 [[code](https://github.com/rohitchawla28/food-review-summarizer)]
 <br><br>
 
 <strong>Museo</strong> <br>
 An augmented reality museum app that provides tailored audioguides and contextual information to museumgoers using NFC tags. <br>
-[[Pitch Deck](https://docs.google.com/presentation/d/1uvb8c0NZH13QHhVHZtbKpCRavdxxQ8BlDL9Z1XiLk2A/edit?usp=sharing)] 
+[[pitch deck](https://docs.google.com/presentation/d/1uvb8c0NZH13QHhVHZtbKpCRavdxxQ8BlDL9Z1XiLk2A/edit?usp=sharing)] 
 [[code](https://github.com/rohitchawla28/museo)]
 <br><br>
 
-<strong>Fraud Detection ML project</strong> <br>
-Short description <br>
+<strong>Fraud Detection</strong> <br>
+Used various ML techniques to classify customer transactions (from kaggle data) as fradulent. <br>
 [[code](https://github.com/rohitchawla28/fraud-detection)]
-<br><br>
-
-#### Motion Profiling
-Link github
 <br><br>
 
 <strong>FRC Robotics</strong> <br>
